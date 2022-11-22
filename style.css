@@ -1,0 +1,94 @@
+
+
+/*-----PRESET--------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+   background-color: aliceblue;
+    width: 100%;
+    min-height: 100vh;
+}
+
+
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.25rem;
+}
+h4 {
+  font-size: 0.875rem;
+}
+
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
+/*-----PROJETO--------*/
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 182px;
+    width: 182px;
+    border: 1px solid rgba(40, 130, 168, 0.5);
+    margin: 0 auto;
+}
+
+.grid div{
+    height: 20px;
+    width: 20px;
+}
+
+.btn, h3, h4{
+    text-align: center;
+    margin: 5px;
+    color: rgba(44, 99, 116, 0.589);
+    letter-spacing: 1px;
+}
+
+.ending-block {
+    background-color: rgb(247, 8, 8);
+}
+
+.starting-block {
+    background-color: rgb(44, 44, 131);
+}
+
+
+.c1{
+  background-color: black;
+}
+
+.c2, .c3{
+  background-color: rgb(211, 211, 211);
+}
+
+.l1, .l2, .l3{
+  background-color: rgba(165, 42, 42, 0.781);
+}
+
+.l4, .l5{
+  background-color: lightblue;
+}
+
+.frog {
+  background-color: green;
+}
+
+.lose{
+  background-color: rgb(255, 183, 0);
+  border: 2px solid red;
+}
