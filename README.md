@@ -2,7 +2,7 @@
 #### Frogger game made with vanilla JavaScript, HTML and CSS
 ###### _Frogger feito com JS básico, HTML e CSS_
 
-If you hit either the black blocks (cars) or the lightblue ones (river) you'll lose. The frog will move along with the logs if you reach them.
+If you hit either the black blocks (cars) or the lightblue ones (river) you'll lose. The frog will move along with the logs if you stand on them.
 
 ![Result](teste.gif)
 
