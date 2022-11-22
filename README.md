@@ -2,6 +2,8 @@
 #### Frogger game made with vanilla JavaScript, HTML and CSS
 ###### _Frogger feito com JS básico, HTML e CSS_
 
+###### If you hit either the black blocks(roads) or the lightblue ones(river) you'll lose.
+
 ![Result](teste.gif)
 
 Project made following Ania Kubow's JS game guide. This was made solely for the purpose of practicing JavaScript.
