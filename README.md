@@ -3,11 +3,9 @@
 
 If you hit either the black blocks (cars) or the lightblue ones (river) you'll lose. The frog will move along with the logs if you stand on them.
 
+Project made following Ania Kubow's JS game guide. This was made solely for the purpose of practicing JavaScript. 
 
 ![Result](teste.gif)
-
-Project made following Ania Kubow's JS game guide. This was made solely for the purpose of practicing JavaScript. 
-	
 	
 ######  _Frogger feito com JS básico, HTML e CSS_
 
